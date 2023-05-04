@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: white;
+    border: solid #e4691d 5px;
+    text-shadow: -1px 1px 0 #000,
+                          1px 1px 0 #000,
+                         1px -1px 0 #000,
+                        -1px -1px 0 #000;
+}
+.unit{
+    border: solid brown 2px;
+    text-align: center;
+    width: 33%;
+    float: left;
+    height: 100%;
+    margin: 30px;
+    padding-bottom: 10px;
+    background: linear-gradient(60deg,#faeee4,#e7f64a,pink);
+    
+
+}
+button{
+    background-color: rgb(31, 113, 255);
+    color: aliceblue;
+    border: none;
+    margin-top: 5px;
+}
+h5{
+    color: green;
+    font-size: 20px;
+}
+body {
+    background: linear-gradient(60deg,orange,yellow,green);
+}
+
+
